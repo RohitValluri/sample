@@ -17,7 +17,7 @@ export default function Pland(){
                         </div>
                         <div className="col-1"  id = "ac">
                            <p id="f">
-                           nulla facilisi morbi tempus iaculis urna id volutpat lacus laoreet non curabitur
+                           nulla facilisi morbi tempus iaculis urna id volutpat acvdcvc lacus laoreet non curabitur
                            </p>
                            {/* <br/> */}
                            <p>
