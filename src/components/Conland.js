@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../components/header";
 import Contact from "../components/Navigation/Footer";
-import bgi from "../assets/DesignImages/ContactPageImg_Green.png";
+import bgi from "../assets/DesignImages/ContactPageImg_Green1.png";
 import sale from "../assets/DesignImages/Sales.png";
 import support from "../assets/DesignImages/support.png";
 import "../styles/Conland.css";

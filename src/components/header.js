@@ -16,15 +16,17 @@ export default function Header(){
                 <Link to="/components/Pland" class="button buttons">PERSONAL</Link>
                 <Link to="/components/Cland" class="button buttons">CORPORATE</Link>
                 <button class="button buttons">GOVERNMENT</button>
-                <button class="button buttons">CONTACT US</button>
+                <Link to="/components/Conland" class="button buttons">CONTACT US</Link>
                 </div>
                 <div id="dd" class ="col-2">
                     <li class="dropdown">
                     <a href="javascript:void(0)" class="dropbtn"><BiLock/> SECURE SIGN IN</a>
                     <div class="dropdown-content">
-                   
-                    <a href="/components/Psignin">Personal</a>
-                    <a href="/components/Csignin">Corporate</a>
+                    <Link to="/components/Psiginin" >Personal</Link>
+                    <Link to="/components/Csiginin" >Corporate</Link>
+
+                    {/* <a href="/components/Psignin">Personal</a>
+                    <a href="/components/Csignin">Corporate</a> */}
                     <a href="#">Government</a>
                     </div>
                     </li>
